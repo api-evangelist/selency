@@ -1,0 +1,46 @@
+# Selency
+
+> Selency est la marketplace européenne de référence pour le mobilier vintage et la décoration de seconde main. Fondée à Paris en
+2014, elle réunit chineurs particuliers et brocanteurs professionnels autour d'une sélection curatée de plus de 300 000 pièces uniques
+  : mobilier scandinave, art déco, mid-century, design XXe et contemporain, luminaires, miroirs, tapis et objets de décoration.
+
+Selency agit comme tiers de confiance entre vendeurs et acheteurs : chaque annonce est validée par une équipe éditoriale, les prix
+sont fixés par les vendeurs, et la livraison du mobilier est assurée par un réseau de transporteurs spécialisés, y compris pour les
+pièces encombrantes. Le catalogue est mis à jour quotidiennement.
+
+## Pages essentielles
+
+- [Accueil](https://www.selency.fr/): catalogue principal, nouvelles arrivées et sélections éditoriales
+- [Qui sommes-nous](https://www.selency.fr/page/a-propos): histoire, mission et équipe Selency
+- [Vendre sur Selency](https://www.selency.fr/page/comment-vendre): déposer une annonce en tant que particulier ou brocanteur
+- [Centre d'aide](https://selency.frontkb.com/fr): FAQ acheteurs et vendeurs
+- [Livraison](https://selency.frontkb.com/fr/categories/1427394): modes, délais et livraison sur rendez-vous pour le mobilier
+- [Conditions générales de vente](https://share.selency.com/CGV/cgv.pdf): CGV applicables aux transactions
+- [Politique de confidentialité](https://share.selency.com/CGV/privacy-statement-2021-03.pdf): traitement RGPD des données personnelles
+- [Connexion/Inscription Selency](https://www.selency.fr/auth/login): Connexion ou création de compte Selency
+- [Search results](https://www.selency.fr/s/table-de-ferme): Recherche de produits. Pattern d'URL : `/s/{terme-recherche}` (ex: `/s/canape-vintage`)
+
+## Catégories principales
+
+- [Chaises](https://www.selency.fr/c/chaises): fauteuils vintage, chaises de designer, canapés, banquettes
+- [Tables](https://www.selency.fr/c/meubles/table): tables à manger, tables basses, tables d'appoint, bureaux
+- [Décoration](https://www.selency.fr/c/decorer): miroirs, vases, sculptures, objets de curiosité
+- [Luminaires](https://www.selency.fr/c/eclairer): lampes, lampadaires, suspensions et appliques design
+- [Tapis](https://www.selency.fr/c/decorer/tapis-peau): tapis berbères, kilims, tapis vintage et contemporains
+- [Art](https://www.selency.fr/c/art): tableaux, affiches, œuvres originales
+
+## Contenu éditorial
+
+- [Journal Selency](https://www.selency.fr/blog): conseils déco, portraits de brocanteurs, guides d'agencement
+
+## Actions
+- [Connexion/Inscription Selency](https://www.selency.fr/auth/login): Connexion ou création de compte Selency
+- [Recherche](https://www.selency.fr/s/table-de-ferme): pour effectuer une recherche https://www.selency.fr/s/table-de-ferme
+
+## Optional
+
+- [Selency Pro](https://www.selency.fr/professionals): programme dédié aux brocanteurs professionnels
+- [Selency UK](https://www.selency.co.uk/): version anglophone de la marketplace
+- [Selency NL](https://www.selency.nl/): version néerlandaise de la marketplace
+- [Carrières](https://www.welcometothejungle.com/fr/companies/selency): offres d'emploi et culture d'entreprise
+- [Contact presse](https://www.selency.fr/page/presse): kit presse et contacts média

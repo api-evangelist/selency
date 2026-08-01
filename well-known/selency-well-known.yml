@@ -1,0 +1,32 @@
+generated: '2026-07-21'
+method: probed
+source: live probes of /.well-known/* and llms.txt on Selency hosts
+probes:
+- path: /.well-known/security.txt
+  host: https://www.selency.fr
+  status: 404
+  file: null
+- path: /.well-known/openid-configuration
+  host: https://www.selency.fr
+  status: 404
+  file: null
+- path: /.well-known/oauth-authorization-server
+  host: https://www.selency.fr
+  status: 404
+  file: null
+- path: /.well-known/api-catalog
+  host: https://www.selency.fr
+  status: 404
+  file: null
+- path: /.well-known/ai-plugin.json
+  host: https://www.selency.fr
+  status: 404
+  file: null
+- path: /llms.txt
+  host: https://www.selency.fr
+  status: 200
+  file: ../llms/selency-llms.txt
+notes: >-
+  Only /llms.txt is published (saved verbatim). No .well-known discovery
+  documents are served; api.selency.fr does not resolve. Selency is a
+  consumer marketplace with no public API surface.

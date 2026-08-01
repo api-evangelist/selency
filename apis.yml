@@ -1,8 +1,28 @@
 aid: selency
 name: Selency
-description: 'Selency is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Selency is the leading European online marketplace for vintage furniture and
+  second-hand home decor. Founded in Paris in 2014 (formerly Brocante Lab), it
+  connects individual sellers and professional antique dealers with buyers
+  around a curated catalog of more than 300,000 unique pieces: Scandinavian,
+  art deco, mid-century, 20th-century and contemporary design, lighting,
+  mirrors, rugs and decorative objects. Selency acts as a trusted third party,
+  editorially validating each listing and arranging specialized furniture
+  delivery across Europe. It is a B Corp certified consumer marketplace with
+  French, UK and Netherlands storefronts. No public developer API is offered.
 url: https://raw.githubusercontent.com/api-evangelist/selency/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://images.selency.com/8c4c71d3-ed0c-413d-a11f-35f253b56998
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,10 +31,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Consumer
+- Marketplace
+- Furniture
+- Home Decor
+- Second-hand
+- Vintage
+- E-commerce
+- France
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +49,28 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: LLMsTxt
+  url: llms/selency-llms.txt
+- type: WellKnown
+  url: well-known/selency-well-known.yml
+- type: DomainSecurity
+  url: security/selency-domain-security.yml
 - type: Website
-  url: http://www.selency.fr
+  url: https://www.selency.fr
+- type: HelpCenter
+  url: https://selency.frontkb.com/fr
+- type: Blog
+  url: https://www.selency.fr/blog
+- type: SignUp
+  url: https://www.selency.fr/auth/login
+- type: Login
+  url: https://www.selency.fr/auth/login
+- type: TermsOfService
+  url: https://share.selency.com/CGV/cgv.pdf
+- type: PrivacyPolicy
+  url: https://share.selency.com/CGV/privacy-statement-2021-03.pdf
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
