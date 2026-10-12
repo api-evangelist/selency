@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/selency/integrations
+- https://n8n.io/integrations/selency/
+- https://composio.dev/toolkits/selency
+- https://monid.ai/tools/selency
+checked:
+- https://composio.dev/toolkits/selency
+- https://monid.ai/tools/selency
+- https://n8n.io/integrations/selency/
+- https://zapier.com/apps/selency/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
